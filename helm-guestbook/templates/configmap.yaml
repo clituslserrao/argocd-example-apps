@@ -1,6 +1,0 @@
-apiVersion: v1
-data:
-  message: This is a test config
-kind: ConfigMap
-metadata:
-  name: test-config
